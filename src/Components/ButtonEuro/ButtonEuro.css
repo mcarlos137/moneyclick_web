@@ -1,0 +1,42 @@
+.segment-euro {
+    margin: unset !important;
+  background-color: #055990 !important;
+  position: fixed !important;
+  bottom: 55px;
+  left: 5px;
+  z-index: 50;
+  text-align: center;
+}
+.transition-fix{
+position: fixed !important;
+  bottom: 55px;
+  left: 5px;
+  z-index: 50;
+  box-shadow: 0 4px 16px #777 !important;
+}
+.floating-button-recharge {
+  position: fixed;
+  bottom: 55px;
+  left: 5px;
+  z-index: 1000 !important;
+  /* box-shadow: 0 4px 16px #777 !important; */
+}
+.floating-button-recharge-segment {
+  position: absolute;
+  bottom: 55px;
+  left: 5px;
+  z-index: 1000 !important;
+  /* box-shadow: 0 4px 16px #777 !important; */
+}
+.button-click-euro{
+    color:#055990 !important;
+    margin-left: 25;
+    margin-right: 25;
+    background-color:  #ffffff !important;
+}
+#euro-recharge{
+    color:#055990 !important;
+    margin-left: 25;
+    margin-right: 25;
+    background-color:  #ffffff !important;
+}

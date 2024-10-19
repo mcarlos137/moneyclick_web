@@ -1,0 +1,17 @@
+.question {
+  font-size: 24;
+}
+.segment {
+  height: 60;
+  border-radius: 40;
+}
+.faqs-title {
+  color: #055990;
+}
+.scroll-container {
+  scroll-behavior: smooth;
+}
+.scroll-page {
+  display: flex;
+  height: 100%;
+}

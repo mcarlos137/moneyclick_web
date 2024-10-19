@@ -1,0 +1,46 @@
+.text1Mobile {
+  top: 17em;
+  font-family: "Open_Sans" !important;
+  font-size: calc(0.95em + 0.95vw);
+  text-align: center !important;
+  color: #055990 !important;
+  line-height: 24px;
+  width: 100%;
+}
+.text-downloadMobile {
+  text-align: center;
+  color: #055990 !important;
+  font-family: "Open_Sans" !important;
+}
+.image1-mobile {
+  /* top: 6em ; */
+  position: relative !important;
+  z-index: -1;
+}
+.label-prices-p2p {
+  background-color: #062433 !important;
+  font-size: 10px !important;
+  text-align: center !important;
+  color: white !important;
+  vertical-align: middle !important;
+  font-weight: normal !important;
+  margin-right: 3;
+  padding-left: 1;
+}
+.label-title-p2p {
+  background-color: #062433 !important;
+  font-size: 12px !important;
+  color: white !important;
+  vertical-align: middle !important;
+  margin-top: -8px !important;
+  margin-bottom: -10px !important;
+  font-weight: normal !important;
+}
+.buttonWap{
+  background-color: #21ba45 !important;
+  background: #21ba45 !important;
+}
+.buttonWap{
+   background-color: #21ba45 !important;
+  background: #21ba45 !important;
+}

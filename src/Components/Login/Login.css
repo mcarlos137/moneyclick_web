@@ -1,0 +1,17 @@
+.actions-login {
+  text-align: center !important;
+  background-color: #ffffff !important;
+  border-top: 0em !important;
+}
+.form-login {
+  /* padding: 0px 30px 0px 30px !important; */
+}
+
+.button-login {
+  text-align: center !important;
+}
+
+.captcha > div > div {
+  display: flex;
+  place-content: center;
+}

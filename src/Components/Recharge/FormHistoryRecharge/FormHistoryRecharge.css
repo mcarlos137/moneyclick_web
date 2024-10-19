@@ -1,0 +1,17 @@
+.ui.orange.basic.button.fontWeight {
+  font-weight: "bold" !important;
+}
+#button-close{
+ background: gainsboro !important; 
+ color: black !important;
+}
+.button-close{
+ background: gainsboro !important; 
+ color: black !important;
+}
+#button-mark{
+ background: rgb(59, 196, 59) !important; 
+}
+.button-mark{
+ background: rgb(59, 196, 59) !important; 
+}

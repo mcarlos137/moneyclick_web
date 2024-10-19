@@ -1,0 +1,40 @@
+.footer-app {
+  padding: 15px 0em 15px;
+  background-color: #055990;
+  text-align: center;
+}
+.content-footer {
+  color: #ffffff;
+  font-family: "Open_Sans";
+  font-size: 13px;
+  vertical-align: middle;
+}
+
+.footerMenu {
+  color: #055990 !important;
+  text-align: right !important;
+  border-right-style: solid;
+  border-right-width: thin;
+  padding-right: 10px;
+  border-right-color: #055990;
+  font-family: "Open_Sans" !important;
+  font-size: small;
+  font-weight: bold !important;
+}
+
+.menuLink {
+  font-weight: "bold" !important;
+  font-size: 22 !important;
+}
+
+.container-menu-nav {
+  justify-content: space-between !important;
+}
+
+.menuLinkText {
+  color: #055990;
+  font-size: x-small !important;
+}
+.imageFotter {
+  margin-top: "20px" !important;
+}

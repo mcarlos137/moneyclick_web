@@ -1,0 +1,10 @@
+.title-items{
+    color: #055990 !important;
+    font-family: "Open_Sans" !important;
+    font-weight: bold;
+}
+.content-items{
+    line-height: 22px;
+    margin-left: 15px;
+    text-align: justify;
+}

@@ -1,0 +1,18 @@
+.textFastChange{
+  color: #055990 !important;
+  font-family: "Open_Sans" !important;
+  font-size: 14px;
+  text-align: center !important;
+}
+
+.textError{
+  color: #c91700 !important;
+  font-family: "Open_Sans" !important;
+  font-size: 14px;
+  text-align: center !important;
+  
+}
+.actions-modal{
+    background-color: #ffffff !important;
+    border-top: 0em !important; 
+}

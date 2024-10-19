@@ -1,0 +1,21 @@
+.home-reduced-title{
+font-family: "Open_Sans" !important;
+  color: #055990 !important;
+}
+.text-home-reduced{
+font-family: "Open_Sans" !important;
+  color: #055990 !important;
+  font-size: 16px;
+}
+.image1-reduced {
+  position: relative !important;
+}
+.available-home-reduced{
+font-family: "Open_Sans" !important;
+  color: #055990 !important;
+  font-size: 12px;
+  margin-top: 2em;
+}
+.button-start{
+    font-size: 16px !important
+}

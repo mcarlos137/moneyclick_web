@@ -1,0 +1,61 @@
+.title-items {
+  color: #055990 !important;
+  font-family: "Open_Sans" !important;
+  font-weight: bold;
+  padding-left: 0px;
+  padding-bottom: 15px;
+}
+
+.title-items-footer {
+  color: #055990 !important;
+  font-family: "Open_Sans" !important;
+  font-weight: bold;
+  padding-left: 0px;
+}
+
+.content-items {
+  font-family: "Open_Sans" !important;
+  line-height: 22px;
+  margin-left: 0px;
+  text-align: justify;
+  padding-bottom: 20px;
+}
+
+.content-items-footer {
+  font-family: "Open_Sans" !important;
+  margin-left: 0px;
+  text-align: justify;
+  padding-bottom: 10px;
+}
+
+.content-items-aux {
+  font-family: "Open_Sans" !important;
+  line-height: 22px;
+  margin-left: 0px;
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+.container-menu-nav {
+  justify-content: space-between !important;
+}
+
+.titleComponents {
+  font-family: "Open_Sans" !important;
+  background: #e0e1e2 !important;
+  border-radius: 0px !important;
+  padding-left: 3;
+}
+
+.content-items-bottom {
+  font-family: "Open_Sans" !important;
+  line-height: 22px;
+  margin-left: 0px;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+.dividerLegal {
+  height: 10px;
+  color: #055990 !important;
+}

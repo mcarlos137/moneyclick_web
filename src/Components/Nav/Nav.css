@@ -1,0 +1,163 @@
+.login {
+  color: #055990 !important;
+  text-align: right !important;
+  border-right-style: solid;
+  border-right-width: thin;
+  padding-right: 20px;
+  border-right-color: #055990;
+  font-family: "Open_Sans" !important;
+}
+.signup {
+  margin-top: 100px;
+  color: #055990 !important;
+  font-family: "Open_Sans" !important;
+}
+.leng {
+  color: #055990 !important;
+  font-family: "Open_Sans" !important;
+}
+.menu {
+  color: #055990 !important;
+  text-align: left !important;
+  margin-left: 10px;
+  font-size: 12px;
+}
+.buttonNotStyle {
+  background-color: transparent !important;
+  background: transparent !important;
+}
+@media screen and (max-width: 1199px) and (min-width: 1001px) {
+  .menu {
+    color: #055990 !important;
+    text-align: left !important;
+    margin-left: 10px;
+    font-size: 11px;
+  }
+}
+@media screen and (max-width: 1000px) and (min-width: 800px) {
+  .menu {
+    color: #055990 !important;
+    text-align: left !important;
+    margin-left: 10px;
+    font-size: 11px !important;
+  }
+}
+@media screen and (max-width: 799px) {
+  .menu {
+    color: #055990 !important;
+    text-align: left !important;
+    margin-left: 10px !important;
+    font-size: 9px !important;
+  }
+}
+#lengu-select.ui.dropdown > .text {
+  color: #055990 !important;
+  text-align: left !important;
+  margin-left: 10px;
+}
+@media screen and (max-width: 1199px) and (min-width: 1001px) {
+  .leng {
+    color: #055990 !important;
+    font-family: "Open_Sans" !important;
+    font-size: 11px;
+  }
+}
+@media screen and (max-width: 1000px) and (min-width: 800px) {
+  .leng {
+    color: #055990 !important;
+    font-family: "Open_Sans" !important;
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 1199px) and (min-width: 1001px) {
+  #lengu-select.ui.dropdown > .text {
+    color: #055990 !important;
+    text-align: left !important;
+    margin-left: 10px;
+    font-size: 11px;
+  }
+}
+@media screen and (max-width: 1000px) and (min-width: 800px) {
+  #lengu-select.ui.dropdown > .text {
+    color: #055990 !important;
+    text-align: left !important;
+    margin-left: 10px;
+    font-size: 10px;
+  }
+}
+.navLogged {
+  color: #055990 !important;
+  /* margin-left: 10px !important; */
+  font-family: "Open_Sans" !important;
+  margin-top: 1px !important;
+}
+.line-vertical-nav {
+  border-right: 2px solid #055990 !important;
+  margin-top: 48px;
+  /* margin-left: -20px; */
+  /* width: 20px; */
+  height: 20px;
+}
+.navLogged:hover {
+  /* color: #055990 !important;
+  margin-left: 10px !important;
+  font-family: "Open_Sans" !important;
+  font-weight: bold !important; */
+  text-shadow: 0 0 0.35px #055990, 0 0 0.35px #055990;
+  background-color: inherit !important;
+}
+.menuLogged {
+  padding-bottom: 0px !important;
+  margin-bottom: -35px !important;
+  margin-right: -45px;
+  margin-top: -15px;
+  font-family: "Open_Sans" !important;
+}
+.container-menu-nav {
+  justify-content: space-between !important;
+}
+.help {
+  color: dimgrey !important;
+  font-family: "Open_Sans" !important;
+  text-align: right !important;
+  float: right !important;
+  font-size: 11px !important;
+  line-height: 14px !important;
+  flex-direction: row !important;
+}
+.language {
+  flex-direction: row !important;
+}
+@media screen and (max-width: 1199px) and (min-width: 1001px) {
+  .help {
+    color: #055990 !important;
+    font-family: "Open_Sans" !important;
+    text-align: right !important;
+    float: right !important;
+    left: -5px !important;
+    vertical-align: middle !important;
+    font-size: 11px !important;
+  }
+}
+@media screen and (max-width: 1000px) and (min-width: 800px) {
+  .help {
+    color: #055990 !important;
+    font-family: "Open_Sans" !important;
+    text-align: right !important;
+    float: right !important;
+    left: -5px !important;
+    vertical-align: middle !important;
+    font-size: 10px !important;
+  }
+}
+@media screen and (max-width: 799px) {
+  .help {
+    color: #055990 !important;
+    font-family: "Open_Sans" !important;
+    text-align: right !important;
+    float: right !important;
+    left: -5px !important;
+    vertical-align: middle !important;
+    font-size: 9px !important;
+  }
+}

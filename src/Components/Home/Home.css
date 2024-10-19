@@ -1,0 +1,228 @@
+/* .image1 {
+ width: 400px !important;
+ position: relative !important;
+} */
+
+/* Image{
+      object-fit: cover !important;
+
+} */
+ .image1 {
+    top: 28px !important;
+    margin-bottom: 6px;
+    width: 450px !important;
+    height: 790px !important;
+    position: relative !important;
+    object-fit: cover;
+}
+/* @media screen and (min-width: 1441px) {
+  .image1 {
+  top: 6em ;
+  float: right !important;
+  left: -10em !important;
+}
+} */
+.row-mobile{
+  top: 2rem !important;
+}
+.logo {
+   margin-top: 35px;
+   text-align: center !important;
+  /* margin-left:-45px ; */
+}
+@media screen and (min-width: 1441px) and (max-width: 3600px) {
+  .logo {
+   margin-top: 100px;
+   text-align: center !important;
+  /* margin-left:-45px ; */
+}
+}
+/* @media screen and (min-width: 1441px) {
+  .image1 {
+  top: 6em ;
+  float: right !important;
+  left: -10em !important;
+}
+} */
+.text1{
+   top: 17em;
+   font-family: "Open_Sans"!important;
+  font-size: 100%;
+  text-align: center !important;
+  color: #055990 !important;
+  line-height: 24px;
+  width: 100%;
+}
+.text13{
+   top: 17em;
+   font-family: "Open_Sans"!important;
+  font-size: 16px;
+  /* calc(0.7em + 0.7vw) */
+  text-align: center !important;
+  color: #055990 !important;
+  line-height: 24px;
+  width: 100%;
+}
+
+.image2{
+  /* top: -8em; */
+  left: -12em;
+  /* position: absolute; */
+}
+
+.text-button-rechargue{
+  text-align: left;
+  margin-top: 10em;
+}
+.text2{
+   top: 3em;
+   font-family: "Open_Sans" !important;
+  color: #055990 !important;
+}
+.text4{
+   top: 7em;
+   font-family: "Open_Sans" !important;
+  font-size: 20px;
+  color: #055990 !important;
+  line-height: 24px;
+}
+
+
+.button-recharge{
+  position: absolute;
+  top:18em;
+  /* left: 42em; */
+  width: 10em;
+}
+.textMessage{
+  color: #055990 !important;
+  font-family: "Open_Sans" !important;
+  font-size: 14px;
+  text-align: justify !important;
+}
+.seg-text{
+  position: relative;
+  z-index: 50;
+  width: 220px;
+  border: none !important;
+  left: 12em;
+  top: 9em;
+  background: rgba(221, 221, 221, 0.979) !important;
+  -webkit-box-shadow: 6px 6px 12px -2px rgba(46, 45, 45, 0.75) !important;
+  -moz-box-shadow: 6px 6px 12px -2px  rgba(46, 45, 45, 0.75)!important;
+  box-shadow: 6px 6px 12px -2px  rgba(46, 45, 45, 0.75) !important;
+}
+.title-mc{
+  color: #055990 !important;
+  text-align: center !important;
+  font-family: "Open_Sans" !important;
+}
+.text5{
+   font-family: "Open_Sans" !important;
+  text-align: center !important;
+  color: #055990 !important;
+  line-height: 24px;
+  font-size: 18px;
+}
+.item-text{
+font-family: "Open_Sans" !important;
+ color: #055990 !important;
+ font-size: 15px;
+ text-align: center !important;
+ width: 190px;
+}
+.button-download{
+  position: relative;
+ left: 5em;
+}
+.image3 {
+  top: 12em ;
+  /* width: 150em !important; */
+}
+@media screen and (min-width: 1441px) {
+  .image3 {
+  top: 12em ;
+  /* width: 150em !important; */
+  float: right !important;
+}
+}
+.title2{
+  color: #055990 !important;
+  font-family: "Open_Sans" !important;
+  width: 23em !important;
+}
+.div-items{
+ margin-left: 5em;
+ text-align: left !important;
+ margin-top:115px;
+}
+.items{
+  color: #055990 !important;
+  text-align: left !important;
+  font-size: 16px;
+  font-family: "Open_Sans" !important;
+  width: 25em !important;
+  line-height: 24px;
+}
+.image4 {
+  right: -8em;
+  width: 120% !important;
+  margin-top: 100px;
+  /* 25em !important; */
+}
+
+
+.text6{
+ font-size: 16px;
+ width: 520px !important;
+ line-height: 24px;
+ margin-left: 50px;
+ margin-top: 50px;
+ color: #055990 !important;
+}
+
+.text15{
+ font-size: 16px;
+ width: 520px !important;
+ line-height: 24px;
+ /* text-align: center; */
+ margin-left: 50px;
+ /*margin-top: 50px; */
+ color: #055990 !important;
+}
+
+.storeImages2{
+  top: 40px !important;
+
+}
+
+.text-download{
+  text-align: center;
+  color: #055990 !important;
+}
+.text-value{
+  font-size: 2.5rem !important;
+}
+#value-Stad{
+  font-size: 2.5rem !important;
+}
+.band-achie{
+   margin: 0px;
+   padding-right: 0px;
+   text-align: center;
+}
+@media screen and (min-width:1367px) and (max-width: 1919px){
+  .band-achie{
+    top:3px;
+   margin: 0px 125px ;
+   padding-right: 0px;
+}
+
+}
+@media screen and (min-width: 1920)and (max-width: 4000) {
+  .band-achie{
+    top:3px;
+   margin: 0px 250px ;
+   padding-right: 0px;
+}
+}
